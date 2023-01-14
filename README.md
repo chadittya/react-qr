@@ -23,6 +23,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [https://github.com/chadittya/react-qr](https://github.com/chadittya/react-qr)
+- Live Site URL: [https://chadittya.github.io/react-qr/](https://chadittya.github.io/react-qr/)
+
 ## My process
 
 ### Built with
